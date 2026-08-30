@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jeffrey Harrison 👋
 
-<!--
-**jeffharrison18356-jpg/jeffharrison18356-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 📚 Currently taking **CSC-134** and diving into **C++**!
+- 🎖️ Military veteran working toward a career in game development.
+- 🎯 Aiming to build video games inspired by rich sci-fi and non-fiction literature.
 
-Here are some ideas to get you started:
+## 📖 What I'm Reading & Doing
+I continuously read both fiction and non-fiction—often listening during walks or breaks. Right now, I'm on book three of the *Culture* series by Iain M. Banks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+- **Learning:** C++
+
+## 📬 Connect With Me
+- **GitHub:** Right here on Github!
